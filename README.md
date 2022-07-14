@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arman199929
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML/CSS JavaScript Node.js
+- 🌱 I’m learned HTML/CSS JavaScript Node.js
 - 💞️ I’m working on VB techno solutions
 - 📫 How to reach me arman199929
 
